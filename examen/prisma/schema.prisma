@@ -19,7 +19,7 @@ model Artwork{
   artist String
   year Int
   description String
-  type Type
+  type String
 
 
 }
